@@ -1,7 +1,7 @@
 ---
 title: "Etude sur les manchots"
-author: "MP Etienne et  toute la spé data science, notamment Mathilde Bruguet "
->>>>>>> d82b43db251fce94ccaf71fd3bc4803824b986fe
+author: "MP Etienne et  toute la spé data science, notamment Mathilde Bruguet et Jean Gland "
+author: "MP Etienne, Mathilde Bruguet "
 date: "9/2/2021"
 output: html_document
 ---
