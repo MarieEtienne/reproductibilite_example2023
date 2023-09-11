@@ -20,3 +20,10 @@ install.packages('palmerpenguins)
 
 L'objectif de cette classe est de proposer des représentations graphiques de ces données en collaborant à l'aide de l'outil git.
 
+```{r}
+path_to_file()
+data=path_to_file("penguins_raw.csv")
+head(read.csv(path_to_file("penguins.csv")))
+```
+
+
