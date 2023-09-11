@@ -11,7 +11,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Introduction 
 
-Elle avait le visage de Nathalie Portman, elle m'a dit moi non plus je ne veux pas de vie de couple, cette nuit je veux me couper de ce monde qui dégoute bébé bient dans mon hotel et on éteint les protables. J'en connais un rayon, je raconte pas de disquettes, elle a mordu l'oreiller, comme si c'était un cheesecake. 
 Le  [Dr. Kristen Gorman](https://www.uaf.edu/cfos/people/faculty/detail/kristen-gorman.php) et la [station Palmer en Antarctique](https://pal.lternet.edu/) sont membres  de a member of [ Long Term Ecological Research Network](https://lternet.edu/) et ont collectés un jeu de données portant sur 344 manchots appatenant à 3espèces différentes. Ces données sont disponibles dans le package [palmerpenguins](https://allisonhorst.github.io/palmerpenguins/). Ce package peut être installé à l'aide de la commande
 
 ```{r install_package, eval = FALSE}
@@ -19,4 +18,7 @@ install.packages('palmerpenguins)
 ```
 
 L'objectif de cette classe est de proposer des représentations graphiques de ces données en collaborant à l'aide de l'outil git.
+
+
+## Presentation 
 
