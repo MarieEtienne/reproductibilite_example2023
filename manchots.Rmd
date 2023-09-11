@@ -22,8 +22,12 @@ L'objectif de cette classe est de proposer des représentations graphiques de ce
 
 ```{r}
 path_to_file()
-data=path_to_file("penguins_raw.csv")
+path_to_file("penguins_raw.csv")
+data=read.csv(path_to_file("penguins.csv"))
 head(read.csv(path_to_file("penguins.csv")))
 ```
-
+Taille des ailes en fonction du poids
+```{r}
+plot(data$body_mass_g,data$flipper_length_mm)
+```
 
