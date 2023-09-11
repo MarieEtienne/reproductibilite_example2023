@@ -1,6 +1,6 @@
 ---
 title: "Etude sur les manchots"
-author: '''MP Etienne et Mathis '''
+author: "MP Etienne et la promo 2023"
 date: "9/2/2021"
 output: html_document
 ---
